@@ -1,6 +1,6 @@
 # fcc_nn_research
 
-Cleaned-up versions of notebooks used in researching public comments for FCC Proceeding 17-108 (Net Neutrality Repeal). I am posting the notebook for Exploratory Data Analysis first, and will include others as they are cleaned up. Please share with the rest of us what interesting insights you glean from the data! Tweet at me [@jeffykao](https://twitter.com/jeffykao).
+Cleaned-up versions of notebooks used in researching public comments for FCC Proceeding 17-108 (Net Neutrality Repeal). I am posting the notebook for Exploratory Data Analysis first, and will include others as they are cleaned up.
 
 ## Recent Updates (11-25-2017)
 
@@ -8,7 +8,7 @@ None. First commit!
 
 ## Background Information
 
-I did this project as a part of the coursework for [Metis](https://www.thisismetis.com/) and was shocked to see my analysis blow up online. Humbled by the attention but I'm sure experienced data scientists out there could glean even more insights from the work. :-)
+I did this project as a part of the coursework for [Metis](https://www.thisismetis.com/) and was shocked to see my analysis blow up online. Humbled by the attention but I'm sure experienced data scientists out there could glean even more insights from the work. Please share with the rest of us what else you find in the data! Tweet at me [@jeffykao](https://twitter.com/jeffykao). :-)
 
 ### Media
 - [Blog post on the results](https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
