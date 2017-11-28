@@ -2,6 +2,10 @@
 
 Cleaned-up versions of notebooks used in researching public comments for FCC Proceeding 17-108 (Net Neutrality Repeal). I am posting the notebook for Exploratory Data Analysis first, and will include others as they are cleaned up.
 
+## Where's the data?
+
+See below in the prerequisites section.
+
 ## Recent Updates (11-27-2017)
 
 4 more notebooks have been uploaded. Run in numerical order to reconstruct the data processing pipeline. Notebook 4 contains the charts. Data for the final couple notebooks is being uploaded and will be linked here tomorrow morning.
@@ -9,11 +13,6 @@ Cleaned-up versions of notebooks used in researching public comments for FCC Pro
 ## Background Information
 
 I did this project as a part of the coursework for [Metis](https://www.thisismetis.com/) and was shocked to see my analysis blow up online. Humbled by the attention but I'm sure experienced data scientists out there could glean even more insights from the work. Please share with the rest of us what else you find in the data! Tweet at me [@jeffykao](https://twitter.com/jeffykao). :-)
-
-### Media
-- [Blog post on the results](https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
-- [Washington Post article](https://www.washingtonpost.com/news/the-switch/wp/2017/11/24/fcc-net-neutrality-process-corrupted-by-fake-comments-and-vanishing-consumer-complaints-officials-say/)
-- [Fortune article](http://fortune.com/2017/11/25/1-million-fake-fcc-comments-net-neutrality-were-probably-fake/)
 
 ## Getting Started
 
@@ -23,7 +22,9 @@ This is just a rough sketch of the instructions to the get project up and runnin
 
 #### Data
 
-First set of data (text and duplicate counts only) [posted on kaggle](https://www.kaggle.com/jeffkao/proc_17_108_unique_comments_text_dupe_count). I'm working hard to get non-text data up as well and will let you know the progress by tweet [@jeffykao](https://twitter.com/jeffykao).
+First set of data (text and duplicate counts only) [posted on kaggle](https://www.kaggle.com/jeffkao/proc_17_108_unique_comments_text_dupe_count). The README  on kaggle will contain links to other versions and subsets of the same dataset.
+
+I'm working hard to get non-text data up as well and will let you know the progress by tweet [@jeffykao](https://twitter.com/jeffykao).
 
 #### Python/Anaconda version
 
