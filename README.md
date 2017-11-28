@@ -2,9 +2,9 @@
 
 Cleaned-up versions of notebooks used in researching public comments for FCC Proceeding 17-108 (Net Neutrality Repeal). I am posting the notebook for Exploratory Data Analysis first, and will include others as they are cleaned up.
 
-## Recent Updates (11-25-2017)
+## Recent Updates (11-27-2017)
 
-None. First commit!
+4 more notebooks have been uploaded. Run in numerical order to reconstruct the data processing pipeline. Notebook 4 contains the charts. Data for the final couple notebooks is being uploaded and will be linked here tomorrow morning.
 
 ## Background Information
 
